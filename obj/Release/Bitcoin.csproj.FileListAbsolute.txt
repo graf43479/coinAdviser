@@ -1,0 +1,17 @@
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\CoinAdviser.exe.config
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\CoinAdviser.exe
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\CoinAdviser.pdb
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\EntityFramework.dll
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\Json.dll
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\Newtonsoft.Json.dll
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\EntityFramework.xml
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\Json.pdb
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\bin\Release\Newtonsoft.Json.xml
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.Form1.resources
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.Properties.Resources.resources
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.csproj.GenerateResource.Cache
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\obj\Release\CoinAdviser.exe
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\obj\Release\CoinAdviser.pdb
+C:\Users\vorontsov\Documents\Visual Studio 2013\Projects\Bitcoin\Bitcoin\obj\Release\Bitcoin.csprojResolveAssemblyReference.cache
